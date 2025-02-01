@@ -1,0 +1,1 @@
+C:\Users\flore\Documents\Env immersif\DemoRien\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2i5p1c20\obj\arm64-v8a
